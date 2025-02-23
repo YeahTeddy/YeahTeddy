@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+  A student in XJTU.
+- 🌱 I’m currently learning cs.
+  ![【哲风壁纸】山水-风景](https://github.com/user-attachments/assets/dd9cecda-8ab6-43aa-b6c8-7dff62c532d8)
 <!--
 **YeahTeddy/YeahTeddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
